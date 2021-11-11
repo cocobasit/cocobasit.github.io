@@ -1,0 +1,14 @@
+{
+	"banner": "ca-app-pub-9314856557632202/3403324359",
+	"banner_show": "true",
+	"interstitial": "ca-app-pub-9314856557632202/7478300731",
+	"interstitial_show": "true",
+	"interstitial_count": "3",
+	"native": "ca-app-pub-9314856557632202/2247696110",
+	"native_show": "false",
+	"interval_native": "200",
+	"open_app": "ca-app-pub-9314856557632202/4852137399",
+	"open_app_show": "true",
+	"package_name": "com.google.admob",
+	"status": "0"
+}
