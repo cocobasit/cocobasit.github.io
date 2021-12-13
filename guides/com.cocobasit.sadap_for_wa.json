@@ -1,7 +1,7 @@
 {
  "Ads": [
     {
-      "select_ads": "ADMOB",
+      "select_ads": "UNITY",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-9314856557632202/1149721178",
@@ -11,9 +11,9 @@
       "startappid": "202853087",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner": "YOUR_PLACEMENT_ID",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":"",
+      "unityID":"4479951",
+      "unity_inter":"Interstitial Android",
+      "unity_banner":"Banner Android",
       "interval": 3
     
     }
