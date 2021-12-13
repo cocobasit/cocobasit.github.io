@@ -1,39 +1,71 @@
 {
- "Ads": [
-    {
-      "select_ads": "ADMOB",
-      "status_app": "0",
-      "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
-      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
-      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
-      "admob_inter_reward":"ca-app-pub-3940256099942544/5354046379",
-      "startappid": "202853087",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner": "YOUR_PLACEMENT_ID",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":"",
-      "interval": 3
-    
-    }
-  ],
-     "Categories": [
-    {
-      "category": "Tips",
-      "image": "file:///android_asset/image/tips.jpg"
+      "Ads": [
+            {
+                  "select_ads": "UNITY",
+                  "status_app": "0",
+                  "link_redirect": "https://",
+                  "admob_interid": "ca-app-pub-9314856557632202/1149721178",
+                  "admob_bannerid": "ca-app-pub-9314856557632202/1443550430",
+                  "admob_openid": "ca-app-pub-9314856557632202/7076835276",
+                  "admob_inter_reward":"ca-app-pub-9314856557632202/8389916946",
+                  "startappid": "202853087",
+                  "fan_inter": "YOUR_PLACEMENT_ID",
+                  "fan_banner": "YOUR_PLACEMENT_ID",
+                  "unityID":"4503159",
+                  "unity_inter":"Interstitial_Android",
+                  "unity_banner":"Banner_Android",
+                  "interval": 3
 
-    }
-  ],
+            }
+      ],
+      "Categories": [
+            {
+                  "category": "Tips",
+                  "image": "file:///android_asset/image/tips.jpg"
 
-  "Data": [
-    {
-      "id": 1,
-      "category": "Tips",
-      "title": "Sadap whatsApp pasangan tanpa ketahuan",
-      "image": "https://cocobasit.github.io/guides/sadap1.jpg",
-      "description": "null",
-      "link": "<p>Dijamin aman sadap whatsApp pasangan tanpa ketahuan. Anda tak perlu scan hand phone pasangan.</p> <p>Cukup masukkan nomor WA pasangan yang hendak disadap. Langsung bisa bongkar lokasi dan chat wa pasangan. Sadap whatsApp jadi cara paling ampuh untuk membuktikan pasangan setia atau tidak.</p><p><img src=\"https://cocobasit.github.io/guides/sadap1.jpg\" /></p> <p>Apalagi anda yang menjalin hubungan jarak jauh alias LDR ( Long Distance Relationship). Apalagi kalau bukan sebagai bukti memastikan kecurigaan anda.</p> <p>Terlebih pasangan menunjukan sikap dan perilaku yang berbeda belakangan ini.</p> <p>Di dunia maya, dengan mudah Pengguna WA dapat menemukan laman untuk cara sadap Whatsapp hanya dengan nomor WA. Namun, sebaiknya hati-hati dengan situs atau laman yang menyediakan cara sadap WhatsApp hanya dengan nomor WA.</p> <p>Coba ketik kata mematai-matai WhatsApp atau spy WhatsApp for free dalam search engine Gooole, maka selanjutnya akan tersedia banyak laman yang membuat klaim palsu.</p> <p>Dilansir californianewstimes.com, di dalam berbagai laman ini, pengguna cukup masukkan nomor telpon lalu klik tombol spy untuk mendapatkan informasi yang diperlukan.</p><p>Hati-hati tidak ada cara menyadap WhatsApp seperti ini.</p> <p>Laman atau website tersebut bisa dikategorikan sebagai penipuan. Laman ini hanya akan mengarahkan ke laman iklan atau mendownload promosi software yang berbahaya di HP anda.</p> <p>Sebaiknya hindari laman tersebut. Pada dasarnya, laman-laman ini dibuat hanya untuk orang-orang yang kurang paham dengan teknologi.</p> <p>Beberapa cara untuk menyadap WA pasangan di HP kita</p>"
-    }
-  ]
+            }
+      ],
+
+      "Data": [
+            {
+                  "id": 1,
+                  "category": "Tips",
+                  "title": "Cara Klaim Code Redeem Mobile Legend (ML) Terbaru",
+                  "image": "https://raw.githubusercontent.com/cocobasit/cocobasit.github.io/main/guides/com.cocobasit.redeem_code_ml/tutorial_redeem.jpg",
+                  "description": null,
+                  "link": "<p>Cara Redeem Kode tersebut cukup mudah. Kalian tinggal menginput Kode Redeem di atas. Lalu isikan juga ID game ML yang kalian miliki. Berikut detailnya :</p> <ol> <li>Kunjungi situs m.mobilelegends.com/en/codexchange/</li> <li>Input salah satu Kode Redeem ML di atas pada kolom \"Redemption Code\".</li> <li>Masukkan ID user game Mobile Legends dan kode verifikasi.</li> <li>Bila sudah menginput semua data yang diperlukan, klik \"redeem\" untuk memproses.</li> <li>Login ke dalam akun Mobile Legends yang sudah di-bind.</li> <li>Hadiah item akan dikirim langsung melalui [In-game Mail].</li> </ol> <p>Kode Redeem ML sendiri sebenarnya secara berkala diterbitkan oleh Moonton.</p> <p>Namun, kebanyakan memiliki batas penggunaan sehingga hanya yang cepat melakukan redeem yang mendapatkan hadiahnya.</p> <p>Maka dari itu, manfaatkan Kode Redeem di atas untuk mendapatkan skin-skin gratis untuk mempercantik hero yang kalian gunakan di dalam game.</p> <p>Demikian informasi seputar daftar Kode Redeem ML Desember 2021 terbaru, Selamat mencoba dan semoga beruntung.***</p>"
+            },
+            {
+                  "id": 2,
+                  "category": "Tips",
+                  "title": "Kode Redeem ML 12 Desember 2021 Terbaru, Cepat Klaim",
+                  "image": "https://raw.githubusercontent.com/cocobasit/cocobasit.github.io/main/guides/com.cocobasit.redeem_code_ml/redeem_12_desember.jpg",
+                  "description": null,
+                  "link": "<p>Kode Redeem ML terbaru yang dirilis pada tanggal 12 Desember 2021 ini ada yang mempunyai kuota terbatas, tapi ada juga yang unlimited.</p> <p>Jadi kamu bisa memiliki skin gratis dari klaim kode tersebut. Jika terjadi kegagalan klaim, mungkin saja server sedang sibuk atau sudah dipakai oleh orang lain.</p> <p>Berikut Kode Redeem ML 12 Desember 2021 :</p> <ol> <li>qat285jp8sgm22a97</li> <li>cct5rhdvpv8822cw9</li> <li>ejkdrqrhnr22cmr</li> <li>remfsbxsx2qu22cwh</li> <li>vye7z8mvvek822cwg</li> <li>ck3bcw9rc47622abu</li> <li>vpffadntgwbk229v7</li> </ol> <p>Berikut daftar Kode Redeem ML bulan Desember 2021 lainnya yang bisa kalian coba :</p> <ol> <li>mlbb11megasale</li> <li>MCC10BViews</li> <li>sa8c1h7tv</li> <li>k29k2g7tv</li> <li>l3wlbi7tv</li> <li>lg5s0o7tv</li> <li>TOMYFRIENDS</li> <li>odqhjk7tv</li> <li>yb3p8a7tv</li> <li>MPLBRW3</li> <li>sj4pyfw3xbrb22cv2</li> <li>tae6v6zqheqe22cv2</li> <li>aabqvt7jv27b22cv2</li> </ol>"
+            },
+            {
+                  "id": 3,
+                  "category": "Tips",
+                  "title": "Kode Redeem ML 13 Desember 2021, Ada Banyak Fragment",
+                  "image": "https://raw.githubusercontent.com/cocobasit/cocobasit.github.io/main/guides/com.cocobasit.redeem_code_ml/redeem_13_desember.jpg",
+                  "description": null,
+                  "link": "<p><strong>Mobile Legends</strong> kembali merilis kode redeem untuk para player setianya.</p><p>Siapa yang tercepat melakukan klaim bisa mendapat beragam hadiah, seperti diamond dan senjata secara gratis.</p><p>Jika penukaran berhasil, hadiah nanti akan langsung dikirim melalui in-game mail.</p><p>Namun jika gagal, Anda bisa mencoba klaim dengan masukkan kode redeem lainnya hingga berhasil.</p> <p><strong>Kode redeem ML 13 Desember 2021:</strong></p><ol><li>334fx4b87ts422drf</li><li>5m6qndb89qm822drf</li><li>6pgy5efnpmp22dhk</li><li>9nmyppk6z5gt22a9c</li><li>c1kp2m1vkwna</li><li>fjvr93gspcb322bks</li><li>jf3fmsreke3922dph</li><li>m3sk1vbl2kpzq</li><li>ssbn8pktjuct22dhq</li><li>u787aq7ky2gy22bd4</li></ol><p><strong>Cara klaim:</strong><br>1. Buka laman <a href=\"http://m.mobilelegends.com/en/codexchange\" target=\"_blank\" rel=\"noopener\">m.mobilelegends.com/en/codexchange</a>.<br>2. Kemudian, masukkan salah satu kode redeem ML pada kotak Redemption Code.<br>3. Selanjutnya, tuliskan ID user gim Mobile Legends dan kode verifikasi pada kotak yang tersedia.<br>4. Lalu, klik Redeem.</p><p>Akan tetapi, perlu diingat bahwa setiap kode memiliki limit waktu dan hanya bisa dilakukan sekali.</p> <p>Jadi, jika Anda gagal saat melakukan klaim, bisa jadi Anda pernah menukarkan kode tersebut atau masa penukarannya sudah melewati tenggat waktu yang ditentukan.</p>"
+            },
+            {
+                  "id": 4,
+                  "category": "Tips",
+                  "title": "INI Redeem Code Mobile Legends GRATIS",
+                  "image": "https://raw.githubusercontent.com/cocobasit/cocobasit.github.io/main/guides/com.cocobasit.redeem_code_ml/redeem_terbaru_desember.jpg",
+                  "description": null,
+                  "link": "<p>Berikut daftar Kode Redeem ML bulan Desember 2021 lainnya yang bisa kalian coba :</p> <ol> <li>mlbb11megasale</li> <li>MCC10BViews</li> <li>sa8c1h7tv</li> <li>k29k2g7tv</li> <li>l3wlbi7tv</li> <li>lg5s0o7tv</li> <li>TOMYFRIENDS</li> <li>odqhjk7tv</li> <li>yb3p8a7tv</li> <li>MPLBRW3</li> <li>sj4pyfw3xbrb22cv2</li> <li>tae6v6zqheqe22cv2</li> <li>aabqvt7jv27b22cv2</li> </ol>"
+            },
+            {
+                  "id": 5,
+                  "category": "Tips",
+                  "title": "Buruan Klaim Redeem Code ML",
+                  "image": "https://raw.githubusercontent.com/cocobasit/cocobasit.github.io/main/guides/com.cocobasit.redeem_code_ml/redeem_new_desember.jpg",
+                  "description": null,
+                  "link": "<strong>Mobile Legends</strong> alias ML kembali merilis kode redeem ML untuk para pemain setianya. Siapa yang tercepat dalam melakukan klaim, maka mereka bisa mendapatkan beragam hadiah, seperti diamond dan senjata secara gratis.</p> <p>Apabila penukaran berhasil, maka hadiah nanti akan langsung dikirim melalui in-game mail. Namun apabila gagal, kamu bisa mencoba klaim dengan masukkan kode redeem ML lainnya hingga berhasil.</p> <p><strong>Daftar <a href=\"https://www.suara.com/tag/kode-redeem-ml-terbaru\">Kode Redeem ML Terbaru</a></strong></p> <p>Berikut ini adalah sederet kode redeem ML terbaru 13 Desember 2021:</p> <ul><li>QJSV7J3NMBHH22BXV</li><li>k29k2g7tv</li><li>l3wlbi7tv</li><li>lg5s0o7tv</li><li>odqhjk7tv</li><li>yb3p8a7tv</li><li>MPLBRW3</li><li>4brrwp7wqp2h22cgc</li><li>HAPPYMGL2000K</li><li>MPLBRW3</li><li>9bx9b584m5se22cpy</li><li>6JZBG225HJMX22AGV</li><li>6M5FUX96A2F322AGV</li><li>9y9y7exqkdxv22bxt</li><li>9eb2yhn5m8v522bxt</li><li>9dw2bna5j2zz22bxu</li><li>8v4adedvfjcw229f9</li><li>z73r9qdwjeq922cga</li><li>qat285jp8sgm22a97</li></ul><p>Segera klaim kode redeem ML 13 Desember 2021, dan dapatkan hadiah menariknya. Apabila kamu gagal saat melakukan klaim, bisa jadi kamu sudah pernah menukarkan kode tersebut, atau masa penukarannya sudah melewati tenggat waktu yang ditentukan.</p> <p><strong>Bagaimana <a href=\"https://www.suara.com/tag/cara-klaim-kode-redeem-ml\">Cara Klaim Kode Redeem ML</a>?</strong></p> <p>Cara klaim atau menukarkan hadiah dari kode redeem ML 13 Desember 2021 sangatlah mudah. Pilihlah salah satu kode redeem ML 13 Desember 2021 di dibawah ini, lalu lakukan langkah-langkah berikut untuk klaim hadiahnya:</p> <ol><li>Buka link <em>https://m.mobilelegends.com/en/codexchange</em></li><li>Isi kolom <em>Redemption Code</em> dengan salah satu kode redeem yang kamu pilih.</li><li>Lali isi ID, dan masukkan kode verifikasi, lalu kirim.</li><li>Jangan lupa klik Redeem.</li></ol><p>Apabila berhasil, maka akan muncul notifikasi pesan pada akun Mobile Legend milikmu. Segera lakukan klaim kode redeem ML 13 Desember 2021 agar tidak ketinggalan hadiah-hadiah menarik dari Moonton.</p> <p>Itulah <strong>kode redeem ML</strong> terbaru 13 Desember 2021. Selamat mencoba!</p>"
+            }
+      ]
 }
