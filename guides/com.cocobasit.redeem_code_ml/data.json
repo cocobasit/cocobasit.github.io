@@ -1,0 +1,39 @@
+{
+ "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_inter_reward":"ca-app-pub-3940256099942544/5354046379",
+      "startappid": "202853087",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 3
+    
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Tips",
+      "image": "file:///android_asset/image/tips.jpg"
+
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "Sadap whatsApp pasangan tanpa ketahuan",
+      "image": "https://cocobasit.github.io/guides/sadap1.jpg",
+      "description": "null",
+      "link": "<p>Dijamin aman sadap whatsApp pasangan tanpa ketahuan. Anda tak perlu scan hand phone pasangan.</p> <p>Cukup masukkan nomor WA pasangan yang hendak disadap. Langsung bisa bongkar lokasi dan chat wa pasangan. Sadap whatsApp jadi cara paling ampuh untuk membuktikan pasangan setia atau tidak.</p><p><img src=\"https://cocobasit.github.io/guides/sadap1.jpg\" /></p> <p>Apalagi anda yang menjalin hubungan jarak jauh alias LDR ( Long Distance Relationship). Apalagi kalau bukan sebagai bukti memastikan kecurigaan anda.</p> <p>Terlebih pasangan menunjukan sikap dan perilaku yang berbeda belakangan ini.</p> <p>Di dunia maya, dengan mudah Pengguna WA dapat menemukan laman untuk cara sadap Whatsapp hanya dengan nomor WA. Namun, sebaiknya hati-hati dengan situs atau laman yang menyediakan cara sadap WhatsApp hanya dengan nomor WA.</p> <p>Coba ketik kata mematai-matai WhatsApp atau spy WhatsApp for free dalam search engine Gooole, maka selanjutnya akan tersedia banyak laman yang membuat klaim palsu.</p> <p>Dilansir californianewstimes.com, di dalam berbagai laman ini, pengguna cukup masukkan nomor telpon lalu klik tombol spy untuk mendapatkan informasi yang diperlukan.</p><p>Hati-hati tidak ada cara menyadap WhatsApp seperti ini.</p> <p>Laman atau website tersebut bisa dikategorikan sebagai penipuan. Laman ini hanya akan mengarahkan ke laman iklan atau mendownload promosi software yang berbahaya di HP anda.</p> <p>Sebaiknya hindari laman tersebut. Pada dasarnya, laman-laman ini dibuat hanya untuk orang-orang yang kurang paham dengan teknologi.</p> <p>Beberapa cara untuk menyadap WA pasangan di HP kita</p>"
+    }
+  ]
+}
